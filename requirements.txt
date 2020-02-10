@@ -1,0 +1,14 @@
+coverage==5.0.3
+faker==4.0.1
+flask==1.1.1
+flask-admin==1.5.5
+flask-debugtoolbar==0.10.1
+flask-login==0.5.0
+flask-migrate==2.5.2
+flask-sqlalchemy==2.4.1
+flask-wtf==0.14.3
+gunicorn==20.0.4
+phonenumbers==8.11.4
+psycopg2-binary==2.8.4
+sqlalchemy-utils==0.36.1
+coveralls==1.11.1
