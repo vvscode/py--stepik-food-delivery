@@ -1,6 +1,6 @@
 coverage==5.0.3
 faker==4.0.1
-flask==1.1.1
+flask==2.3.2
 flask-admin==1.5.5
 flask-debugtoolbar==0.10.1
 flask-login==0.5.0
